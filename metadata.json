@@ -1,0 +1,6 @@
+{
+  "name": "Postiz Studio - AI Social Media Management & Scheduler",
+  "description": "Modern Next.js & Supabase-ready rebuild of Gitroom Postiz: open-source AI social media scheduler, multi-platform publishing, live previews, and smart content planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
